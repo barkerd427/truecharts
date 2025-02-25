@@ -1086,6 +1086,42 @@
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/vaultwarden.webp"
         }
     },
+    "enterprise": {
+        "vaultwarden": {
+            "app_readme": "<p>Unofficial Bitwarden compatible server written in Rust</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/premium/vaultwarden\">https://truecharts.org/charts/premium/vaultwarden</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
+            "categories": [
+                "security"
+            ],
+            "description": "Unofficial Bitwarden compatible server written in Rust",
+            "healthy": true,
+            "healthy_error": null,
+            "home": "https://truecharts.org/charts/enterprise/vaultwarden",
+            "location": "/home/runner/_work/catalog/catalog/enterprise/vaultwarden",
+            "latest_version": "27.1.2",
+            "latest_app_version": "1.30.5",
+            "latest_human_version": "1.30.5_27.1.2",
+            "last_update": "2024-05-29 12:35:14",
+            "name": "vaultwarden",
+            "recommended": false,
+            "title": "Vaultwarden",
+            "maintainers": [
+                {
+                    "name": "TrueCharts",
+                    "email": "info@truecharts.org",
+                    "url": "https://truecharts.org"
+                }
+            ],
+            "tags": [],
+            "screenshots": [],
+            "sources": [
+                "https://ghcr.io/timshel/vaultwarden",
+                "https://github.com/dani-garcia/vaultwarden",
+                "https://github.com/truecharts/charts/tree/master/charts/enterprise/vaultwarden",
+                "https://hub.docker.com/r/vaultwarden/server"
+            ],
+            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/vaultwarden.webp"
+        }
+    },
     "stable": {
         "acestream": {
             "app_readme": "<p>IPTV service providing streaming, playlist, search engine and epg.</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/stable/acestream\">https://truecharts.org/charts/stable/acestream</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
